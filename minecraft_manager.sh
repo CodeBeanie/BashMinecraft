@@ -3,7 +3,7 @@
 #==============================================================================
 # Minecraft Server Installer & Manager
 #
-# Author: Ian Legrand (Modified by Gemini)
+# Author: Ian Legrand
 # Description: A comprehensive script to install and manage various
 #              Minecraft servers (Vanilla, Fabric, Forge, Spigot, Paper, Modpacks).
 #              Includes automatic Java version detection and installation via SDKMAN.
