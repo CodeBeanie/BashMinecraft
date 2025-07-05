@@ -90,16 +90,24 @@ This option lists all servers found in your ~/minecraft_servers directory. Selec
 
 
 Start Server: Launches the server in a detached screen session. You'll get instructions on how to attach to its console.
+
 Stop Server: Sends a graceful stop command to the server.
+
 Check Status: Displays if the server is running, its PID, uptime, and current crash protection status.
+
 Backup World: Creates a gzipped tar archive of your server's world folder in a backups subdirectory. If the server is running, it will temporarily disable auto-saving for a consistent backup.
+
 View Logs: Shows the last 50 lines of the latest.log file.
+
 Crash Protection Settings: Allows you to view crash counts, reset crash tracking, and manually enable/disable the auto-restart feature.
 Update Server Version: Attempts to update the server. You can specify a new Minecraft version or update to the latest build of the current version. Always back up your server before updating!
+
 Show Screen Attach Info: Provides the command to re-attach to your server's console.
+
 3. View SDKMAN Java versions
 Lists all Java versions installed via SDKMAN. Useful for debugging Java-related issues.
-4. Exit
+
+5. Exit
 Exits the script.
 
 🛡️ Crash Protection Explained
