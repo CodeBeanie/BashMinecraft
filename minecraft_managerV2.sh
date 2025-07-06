@@ -3,7 +3,7 @@
 #======================================================================================
 # Minecraft Server Installer & Manager v2
 #
-# Author: Ian Legrand (Modified and Enhanced by Gemini)
+# Author: Ian Legrand
 # Description: A TUI-based script to install and manage Minecraft servers.
 #              Features a dialog-based UI, external config, metadata-driven
 #              management, dynamic Java versioning, and improved start scripts.
